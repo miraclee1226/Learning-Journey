@@ -25,9 +25,8 @@
 <br />
 
 ## 🤖 최고의 프롬프트 엔지니어링 강의
-- 기간: 2025.02.04 ~ ing
+- 기간: 2025.02.04 ~ 2025.03.03
 - 내용: AI 시대의 효과적인 프롬프트 작성법과 활용 방안 학습
-- 📎[Link](https://github.com/miraclee1226/study-the-ultimate-guide-to-prompt-engineering)
 <br />
 
 ## 🌐 그림으로 배우는 네트워크 원리
