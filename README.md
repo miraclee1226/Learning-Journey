@@ -9,11 +9,16 @@
 ## 🔎 Blog
 - 2022.02.19 ~ ing
 - 📎https://codingtoddlerr.tistory.com/
+<br />
 
+## ✨ 우아한 타입스크립트 with 리액트
+- 2025.07.04 ~ ing
+- 내용: 타입스크립트의 기초와 실무에서의 타입스크립트와 활용 방법 학습
+- 📎https://github.com/miraclee1226/study-woowabrothers-typescript-with-react
 <br />
 
 ## 💾 혼자 공부하는 컴퓨터 구조 + 운영체제
-- 2025.5.10 ~ 2025.06.28
+- 2025.05.10 ~ 2025.06.28
 - 내용: 컴퓨터 구조와 운영체제 기본 개념 학습
 - 📎https://github.com/miraclee1226/study-computer-architecture-and-operating-systems
 <br />
